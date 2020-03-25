@@ -12,7 +12,7 @@ BEGIN {
   print "</head>"
   print "<body>"
   print "<h1>Best Buy, Sam's Club, Walmart, and Dollar General online stock</h1>"
-  print "<FORM METHOD=GET ACTION='result.cgi'>"
+  print "<FORM METHOD=GET ACTION='resultwork.cgi'>"
   print "Enter the item you want:"
   print "<input name='Item' size=20 maxlength=50>"
   print "<P>"
